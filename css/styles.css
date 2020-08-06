@@ -1,0 +1,57 @@
+body{
+    font-family: 'Montserrat';
+}
+
+#title {
+    background-color: #e4e3e3;
+}
+
+.container-fluid{
+    padding: 0% 23%;
+    margin-bottom: 2%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0px 0 0 0;
+}
+
+.navbar-brand {
+    font-family: "Vollkorn";
+    font-size: 1rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: "Vollkorn";
+    font-size:  1rem;
+}
+
+/* Logo Image */
+.logo-image{
+    width: 80px;
+    height: 65px;
+}
+
+/* Table */
+h5 {
+    font-family: 'Montserrat-Black';
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+td {
+    font-family: "Montserrat";
+    font-size: 0.8rem;
+    line-height: 1.5;
+}
+
+th {
+    font-size: 0.8rem;
+}
